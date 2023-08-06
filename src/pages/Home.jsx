@@ -4,7 +4,6 @@ import SideBar from '../components/sidebar/sidebar'
 const Home = () => {
   return (
    <>
-    <SideBar/>
     <div>Home</div>
     <div>الله نور السماوات والارض مثل نوره كمشكاة فيها مصباح المصباح في زجاجة </div>
     </>
